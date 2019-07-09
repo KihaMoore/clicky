@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "image": "rp/src/img/cat.jpeg",
+        "count":0,
+        "clicked": false
+    },
+
+    {
+        "id":2,
+        "image":"rp/src/img/flowers.jpeg",
+        "count":0,
+        "clicked": false
+    },
+
+    {
+        "id":3,
+        "image":"rp/src/img/key.jpeg",
+        "count":0,
+        "clicked": false
+    },
+
+    {
+        "id":4,
+        "image":"rp/src/img/sealing.jpeg",
+        "count":0,
+        "clicked": false
+    },
+
+    {
+        "id":5,
+        "image":"rp/src/img/shells.jpeg",
+        "count":0,
+        "clicked": false
+    },
+
+    {
+        "id":6,
+        "image":"rp/src/img/wall1.jpeg",
+        "count":0,
+        "clicked": false
+    },
+
+    {
+        "id":7,
+        "image":"rp/src/img/wall3.jpeg",
+        "count":0,
+        "clicked": false
+    },
+    {
+        "id":8,
+        "image":"rp/src/img/walls.jpeg",
+        "count":0,
+        "clicked": false
+    }
+
+]
